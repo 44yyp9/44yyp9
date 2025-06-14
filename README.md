@@ -22,7 +22,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=python,cs,unity,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,cs,unity,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
